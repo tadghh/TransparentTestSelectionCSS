@@ -1,0 +1,19 @@
+/* Chrome */
+*::selection {
+
+    /* Background color */
+    background-color: rgba(0, 0, 0, 0);
+    /* Chrome Blue */
+    color: #0279f2;
+    /* Pastel Dark Blue */
+    text-shadow: 1px 1px 2px #2f527b;
+}
+/* Mozilla */
+*::-moz-selection {
+    /* Background color */
+    background-color: rgba(0, 0, 0, 0);
+    /* Chrome Blue */
+    color: #0279f2;
+    /* Pastel Dark Blue */
+    text-shadow: 1px 1px 2px #2f527b;
+}
